@@ -1,4 +1,4 @@
-# Bois-Colombe Game - V1.0.0 🚀
+# Bois-Colombe Game - V1.0.1 🚀
 
 ## Description
 
@@ -26,5 +26,6 @@ Ce jeu est une expérience **d’action et de stratégie** où chaque mouvement 
 1. **Clonez le repo** :
 ```bash
 git clone git@github.com:MelvinMMM/projet-git.git
+(le jeu est pas reel(je précise au cas où) mais écoute quand même ambience_music.ogg)
 
 
