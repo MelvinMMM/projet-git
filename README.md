@@ -1,4 +1,4 @@
-# Bois-Colombe Game - V1.0.0 🚀
+# Bois-Colombe Game - V1.0.1 🚀
 
 ## Description
 
