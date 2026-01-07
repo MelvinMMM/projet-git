@@ -1,4 +1,8 @@
-# Bois-Colombe Game - V1.0.0 🚀
+# Bois-Colombe Game - V1.1.0 🚀
+
+## Nouvelle version
+
+L'ajout d'un nouveau niveau aussi incroyable que present ! Demain vous vous réveillerez sur du Aya/Hikaru Nakamura
 
 ## Description
 
